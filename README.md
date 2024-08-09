@@ -2,8 +2,9 @@
 
 Meu nome e Jennifer Yasmim
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaSpcript
--Utilizo esse espaço para minha organização e com partilhamento dos meu projeto desenvolvidos
-
-## Voce pode entrar em contato comigo
+- olá,meu nome e jennifer,sou estudante do 1anoC,na escola Leonardo Vilas Boas, em Osasco/SP.
+- estou aprendendoa utilizar o Alura.
+- meu sonho e ser Rica.
+- Nas minhas horas vagas gosto de dormi.
+contato @jennifer_.yzx
+![](![image](https://github.com/user-attachments/assets/b56c4d3f-6c9e-46d0-8868-d2f57d64120a)
